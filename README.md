@@ -1,2 +1,16 @@
-# Godot-oyunum
-Godot ile yapılmış 2D platform oyunu. Oyuncu engelleri aşarak düşmanlardan kaçıyor ve seviyeleri tamamlamaya çalışıyor. HTML5 olarak export edildi, tarayıcıda kolayca oynanabilir.
+# The Lost Kingdoms
+
+**Super Mario tarzı basit ve eğlenceli bir oyun!**  
+Oyun her levelda farklı bir atmosfere sahiptir.
+Oyuncu engelleri aşarak ve düşmanlardan kaçınarak seviyeleri tamamlamaya çalışır.  
+Tarayıcıda kolayca oynanabilir.
+Yeni seviyeler ve özellikler eklemeye devam ediyorum.
+
+## Oynanış
+- Yön tuşlarıyla hareket et veya w,a,d
+- Zıplamak için Space, yukarı ok tuşu veya w tuşu 
+- Amaç: Tüm seviyeleri bitirmek
+
+## Notlar
+- Oyun HTML5 olarak export edilmiştir, bu nedenle herhangi bir kurulum gerektirmez.  
+- GitHub Pages üzerinden oynanabilir.
