@@ -12,5 +12,6 @@ Yeni seviyeler ve özellikler eklemeye devam ediyorum.
 - Amaç: Tüm seviyeleri bitirmek
 
 ## Notlar
-- Oyun HTML5 olarak export edilmiştir, bu nedenle herhangi bir kurulum gerektirmez.  
-- GitHub Pages üzerinden oynanabilir.
+- Oyun HTML5 olarak export edilmiştir, bu nedenle herhangi bir kurulum gerektirmez.
+- oynamak için
+https://sudesta.itch.io
